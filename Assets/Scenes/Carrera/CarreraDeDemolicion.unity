@@ -1584,7 +1584,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 45.1
+  m_fontSize: 63.9
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2289,7 +2289,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 43.95
+  m_fontSize: 60.8
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -2526,7 +2526,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 499885491}
-  m_LocalRotation: {x: 0.25415882, y: -0.00454257, z: 0.0011937476, w: 0.9671511}
+  m_LocalRotation: {x: 0.25415793, y: -0.0052074925, z: 0.0013684834, w: 0.96714777}
   m_LocalPosition: {x: -11, y: 9.1, z: -1.5999985}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3967,7 +3967,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 96.05
+  m_fontSize: 130
   m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4708,7 +4708,7 @@ GameObject:
   - component: {fileID: 1256050099}
   m_Layer: 5
   m_Name: Turbo
-  m_TagString: Untagged
+  m_TagString: Turbo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6377,7 +6377,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2051340727}
-  m_LocalRotation: {x: 0.25415882, y: -0.00454257, z: 0.0011937476, w: 0.9671511}
+  m_LocalRotation: {x: 0.25415793, y: -0.0052074925, z: 0.0013684834, w: 0.96714777}
   m_LocalPosition: {x: -11, y: 9.1, z: -1.5999985}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
